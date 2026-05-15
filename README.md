@@ -145,7 +145,7 @@ Jupyter Notebook
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Generative-AI.git
+   git clone https://github.com/Umam-3289/Generative-AI.git
    cd Generative-AI
    ```
 
@@ -266,9 +266,9 @@ nltk.download('wordnet')
 
 ## 📧 Contact & Support
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Author**: Md Umam Adnan Khan
+- **Email**: Umamkhan9931@9931.com
+- **GitHub**: [@Umam-3289](https://github.com/Umam-3289)
 
 Feel free to reach out for questions, suggestions, or collaborations!
 
