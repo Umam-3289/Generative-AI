@@ -267,7 +267,7 @@ nltk.download('wordnet')
 ## 📧 Contact & Support
 
 - **Author**: Md Umam Adnan Khan
-- **Email**: Umamkhan9931@9931.com
+- **Email**: Umamkhan9931@gmail.com
 - **GitHub**: [@Umam-3289](https://github.com/Umam-3289)
 
 Feel free to reach out for questions, suggestions, or collaborations!
