@@ -15,13 +15,13 @@ This repository is a comprehensive learning guide for **Generative AI and Natura
 ## 🚀 Roadmap
 
 ### **Phase 1: NLP Fundamentals** ✅ (In Progress)
-- [x] Text Preprocessing Basics
-- [x] Tokenization
+- [✅] Text Preprocessing Basics
+- [✅] Tokenization
   - Word Tokenization
   - Sentence Tokenization
-- [x] Stemming (Porter Stemmer, Snowball Stemmer)
-- [ ] Lemmatization
-- [ ] Stop Words Removal
+- [✅] Stemming (Porter Stemmer, Snowball Stemmer)
+- [✅ ] Lemmatization
+- [✅ ] Stop Words Removal
 - [ ] Text Normalization
 
 ### **Phase 2: Text Representation** 📍 (Upcoming)
@@ -211,7 +211,7 @@ stemmed = [stemmer.stem(word) for word in words]
 
 | Phase | Status | Completion |
 |-------|--------|-----------|
-| Phase 1: NLP Fundamentals | 🟡 In Progress | 60% |
+| Phase 1: NLP Fundamentals | 🟡 In Progress | 75% |
 | Phase 2: Text Representation | ⚪ Upcoming | 0% |
 | Phase 3: Advanced NLP Tasks | ⚪ Planned | 0% |
 | Phase 4: Generative Models | ⚪ Future | 0% |
